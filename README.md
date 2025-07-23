@@ -1,6 +1,6 @@
 # 🧠🔐 Quantum-Inspired Chaotic Neural Network (QCaNN) for Image Encryption & Decryption
 
-This project implements a **Quantum-Inspired Chaotic Neural Network (QCaNN)** system to encrypt and decrypt grayscale images using a multi-stage pipeline based on **quantum image principles**, **chaotic dynamics**, **neural networks**, and **probabilistic decoding**.
+This project implements a **Quantum-Inspired Chaotic Neural Network (QCaNN)** system to encrypt and decrypt images using a multi-stage pipeline based on **quantum image principles**, **chaotic dynamics**, **neural networks**, and **probabilistic decoding**.
 
 It simulates quantum computation behavior in a classical system for robust and nonlinear image security.
 
@@ -8,7 +8,7 @@ It simulates quantum computation behavior in a classical system for robust and n
 
 ## 📌 Key Features
 
-- ✅ Quantum-style grayscale image representation (NEQR-inspired)
+- ✅ Quantum-style image representation (NEQR-inspired)
 - 🧠 Neural encryption using QCaNN and chaotic sine maps
 - 🔄 Multi-layer security: diffusion, quantum gate simulation, Lorenz chaos, 5D hyperchaotic shuffling
 - 🔐 Decryption using CNOT logic, probabilistic measurement, and inverse modeling
@@ -20,7 +20,7 @@ It simulates quantum computation behavior in a classical system for robust and n
 
 ### 🔹 Step 1: Quantum Image Generation
 
-- The grayscale image is converted into a quantum-inspired representation.
+- The classsical image is converted into a quantum-inspired representation.
 - Uses NEQR-like structure to map pixel intensity and position into qubit-like states.
 
 ---
